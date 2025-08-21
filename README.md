@@ -1,6 +1,7 @@
 # Next.js製 簡易掲示板アプリケーション
 
-[ここにスクリーンショットを挿入]
+[<img width="924" height="753" alt="スクリーンショット 2025-08-21 162708" src="https://github.com/user-attachments/assets/0566e60d-1aed-47e1-9f4e-a38f322aa502" />
+]
 
 作成した簡易掲示板アプリケーションです。Next.jsのApp Router, Server Actions, Vercel Postgresといったモダンな技術スタックを使用して開発しました。
 
